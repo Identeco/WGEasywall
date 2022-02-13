@@ -1,0 +1,7 @@
+*venv*
+*cache*
+keysdir
+*dist*
+tests
+sampleCommand.sh
+mongoRun.sh
